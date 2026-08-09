@@ -1,0 +1,23 @@
+.card {
+  background-color: rgb(74, 165, 255);
+  padding: 10px;
+  margin: 20px;
+  border-radius: 12px;
+  box-shadow: 0px 0px 10px 2px rgb(0, 102, 204);
+
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+
+  h2 {
+    margin-bottom: 4px;
+    text-shadow: 0px 0px 8px rgb(0, 102, 204);
+  }
+  img {
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px 2px rgb(0, 102, 204);
+    max-width: 500px;
+    height: auto;
+    margin: 4px;
+  }
+}
