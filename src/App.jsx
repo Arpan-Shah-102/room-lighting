@@ -61,6 +61,13 @@ function App() {
         description1="I have finally put in my bed frame light and it looks peak. I am very happy with the results and all the lights I added. Since I need to add a GitHub repo and stuff I'll probably create a react site for it tomorrow."
         image="https://cdn.hackclub.com/019fe49d-ad54-7cfe-befa-f6016c345e71/25306.jpg"
       />
+      <Section
+        title="Making demo video"
+        time="0.5"
+        date="Aug 9, 2026, 11:31 PM"
+        description1="Apparently, you can't have a website as the demo so I had to spend a little while making a video. I also finished making a website for this. Video link is: https://youtu.be/2hm3IfCPdcY?is=76xDpU2hL98abZto and website Link is: https://room-lighting.vercel.app/"
+        image="https://cdn.hackclub.com/019fe9b9-e471-7246-8422-e4a2f7891338/25385.jpg"
+      />
     </>
   )
 }
